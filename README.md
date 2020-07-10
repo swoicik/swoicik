@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World!
 
 <!--
 **swoicik/swoicik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Testing out the new README.md functrionlaity on GitHub
+Testing out the new README.md functionality on GitHub. 
+
+- [Personal Website](https://swoicik.com) - Powered by Jekyll and GitHub Page.
