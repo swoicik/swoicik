@@ -1,20 +1,13 @@
-### Hello World!
+## Hello World!
 
-<!--
-**swoicik/swoicik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trying out the new README.md functionality on GitHub. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Testing out the new README.md functionality on GitHub. 
-
+### About Me
 - [Personal Website](https://swoicik.com) - Powered by Jekyll and GitHub Page.
+- [Twitter](https://twitter.com/swoicik) - The easiest way to contact me
+
+### Popular Repositories
+- [swoicik.github.io](https://github.com/swoicik/swoicik.github.io) - The Jekyll code powering my website
+- [book-cyod](https://github.com/swoicik/book-cyod) - Publicly writing my first book about educational technology
+- [simple-jekyll-theme](https://github.com/swoicik/simple-jekll-theme) - Basic Jekyll theme that powers my personal website
+- [jekyll-resources](https://github.com/swoicik/Jekyll-Resources) - A list of great Jekyll themes, plugins, and tutorials I collected while building my own Jekyll site. 
