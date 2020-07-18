@@ -3,8 +3,9 @@
 Trying out the new README.md functionality on GitHub. 
 
 ### About Me
-- [Personal Website](https://swoicik.com) - Powered by Jekyll and GitHub Page.
-- [Twitter](https://twitter.com/swoicik) - The easiest way to contact me
+- [Personal Website](https://swoicik.com) - Powered by Jekyll and GitHub Pages.
+- [Newsletter](https://swoicik.com/newsletter) - A monthly newsletter about education and technology.
+- [Twitter](https://twitter.com/swoicik) - The easiest way to contact me.
 
 ### Popular Repositories
 - [swoicik.github.io](https://github.com/swoicik/swoicik.github.io) - The Jekyll code powering my website
